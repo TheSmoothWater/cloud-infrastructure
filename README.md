@@ -10,6 +10,11 @@
 
  The `network-setup.tf` file contains Terraform configuration for setting up a virtual network in Azure.
 
+ ## Storage Configuration
+
+ The repository will include templates for setting up cloud storage resources.
+
  ## Compute Configuration
 
  The repository includes templates for setting up virtual machines and compute resources.
+
